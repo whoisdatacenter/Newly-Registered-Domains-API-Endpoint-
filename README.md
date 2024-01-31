@@ -40,7 +40,7 @@ ___
 ```
 https://api.whoisdatacenter.com/v1/download/nrd?apiKey={place_your_api_key_here}&date=2024-01-30
 ```
-[___
+
 **Want more free API for Domains Related Data***
 <br/>
 
@@ -73,7 +73,7 @@ ___
 <br/>
 
  **🔗 Don't Miss Out! Click here to explore:** 
- # https://whoisdatacenter.com/api-documentation/#keyword-api
+ # https://whoisdatacenter.com/api-documentation/#newly-domains
 
 **Unlock the full potential of domain data analytics with just one click!**
 
