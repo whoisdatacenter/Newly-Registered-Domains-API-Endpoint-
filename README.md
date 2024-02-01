@@ -32,7 +32,7 @@ ___
     <a href="Acessing_APIs">Acessing_APIs in different languages</a> •
     <a href="License/License.md">License</a> •
     
-    <br />
+    
 
 
 
