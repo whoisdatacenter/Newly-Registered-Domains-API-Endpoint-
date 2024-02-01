@@ -36,7 +36,7 @@ ___
 
 
 
-# Company Lookup API Endpoint:
+# Newly Registered Domains API Endpoint:
 ```
 https://api.whoisdatacenter.com/v1/download/nrd?apiKey={place_your_api_key_here}&date=2024-01-30
 ```
