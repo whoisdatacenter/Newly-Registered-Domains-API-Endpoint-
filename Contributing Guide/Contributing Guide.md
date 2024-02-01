@@ -1,4 +1,4 @@
-__
+
 Thank you for your interest in contributing to our Newly-Registered Domains API project! This project aims to create a comprehensive and accessible list of Newly registered domains available through our API. Contributions from the community are essential to keep our database rich, current, and useful for everyone.
 
 # How to Contribute
