@@ -21,7 +21,7 @@ ___
  <br />
  
  •Seamless Integration and Ease of Use: Designed with user experience in mind, our API ensures hassle-free integration into your existing systems or workflow, allowing you to focus on what you do best.
-  <br />
+  
 
 
    ___
