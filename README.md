@@ -34,7 +34,7 @@ ___
     
     <br />
 
-___
+
 
 # Company Lookup API Endpoint:
 ```
