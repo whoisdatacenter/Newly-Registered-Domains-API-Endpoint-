@@ -6,7 +6,7 @@ The Newly Registered Domains API is a specialized tool designed to streamline th
 **Introduction**
  <br />
 
-Welcome to the Newly Registered Domains API, your premier resource for discovering and analyzing the freshest additions to the internet's domain landscape. This API is meticulously crafted to provide immediate access to information about domains that have just entered the digital world. Whether you're a cybersecurity expert monitoring for potential threats, a market researcher tracking industry trends, or a digital marketing strategist seeking new opportunities, our API delivers the vital data you need.
+**Welcome to the Newly Registered Domains API, your premier resource for discovering and analyzing the freshest additions to the internet's domain landscape. This API is meticulously crafted to provide immediate access to information about domains that have just entered the digital world. Whether you're a cybersecurity expert monitoring for potential threats, a market researcher tracking industry trends, or a digital marketing strategist seeking new opportunities, our API delivers the vital data you need.**
 
 
 ___
@@ -31,6 +31,7 @@ ___
     <a href="Contributing Guide/Contributing Guide.md">Contributing Guide</a> •
     <a href="Acessing_APIs">Acessing_APIs in different languages</a> •
     <a href="License/License.md">License</a> •
+    <a href="Output/Output.md">License</a> •
     
     
 
